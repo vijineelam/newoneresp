@@ -26,6 +26,9 @@ public class Downloading {
 	  driver.findElement(By.xpath("//a[contains(.,'Download Text File')]")).click();
 	  //Execute Script To Download File.exe file to run AutoIt script. File location = E:\\AutoIT\\
 	  Runtime.getRuntime().exec("D:\\autoiot\\downloading.exe");
-	  System.out.println("This is systemoutprintln");
+	  System.out.println("This is systemoutprintln");	  
+	  System.out.println("Github Checking");
+	  System.out.println("This is systemoutprintlnnew");
+
 
 }}

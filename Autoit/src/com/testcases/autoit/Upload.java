@@ -21,6 +21,7 @@ public class Upload {
 		 Runtime.getRuntime().exec("D:\\autoiot\\uploading.exe");
 		 
 		 //driver.close();
+		 System.out.println("Test");
 		
 	}
 
